@@ -13,6 +13,7 @@ ReactDOM.render(
       <li>Brioche French Holiday Bread</li>
       <li>M&M's Famili Size</li>
       <li>Borrachos</li>
+      <li>Pan de Bono (Dulce)</li>
     </ul>
   </div>,
   document.getElementById("root")
